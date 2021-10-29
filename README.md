@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/jonasperegrino"><img src="https://github.com/jonasperegrino/jonasperegrino/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jonasperegrino/jonasperegrino/blob/main/devcard.svg" width="400" alt="Jonas Dev Card"/></a>
 
 <!--
 **Jonasperegrino/jonasperegrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
